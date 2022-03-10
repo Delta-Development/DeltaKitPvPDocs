@@ -1,9 +1,5 @@
-dev.negativekb.kitpvp
 dev.negativekb.kitpvp.api
 dev.negativekb.kitpvp.api.manager
 dev.negativekb.kitpvp.api.model
 dev.negativekb.kitpvp.api.option
 dev.negativekb.kitpvp.api.utils
-dev.negativekb.kitpvp.core.provider
-dev.negativekb.kitpvp.core.structure
-dev.negativekb.kitpvp.listeners
